@@ -105,6 +105,7 @@ public class PreDefinedMethodsInString {
 		System.out.println(replaceAll);
 		String conct = "Co".concat("Optex");
 		System.out.println(conct);
+		System.out.println("Updated");
 	}
 
 }
